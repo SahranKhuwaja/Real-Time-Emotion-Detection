@@ -32,7 +32,7 @@ Created bounding box labels for each class (e.g., human emotion category)
 
 Exported YOLO-format dataset
 
-Generated a clean data.yaml file mapping classes + dataset paths
+Generated a clean dataset.yaml file mapping classes + dataset paths
 
 3️⃣ Model Training (YOLOv5)
 
