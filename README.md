@@ -3,7 +3,7 @@
 This project is a human emotion detection system built using YOLOv5 and custom data captured from my webcam. I collected images, labeled them in Label Studio, generated a YOLO-compatible .yaml file, trained a custom model, and tested it on images and real-time webcam feed.
 
 **🚀 Features**
-
+ 
 Real-time webcam detection
 
 Image-based detection
