@@ -28,7 +28,7 @@ Ensured variety in lighting/background for robustness
 
 Imported all images into Label Studio
 
-Created bounding box labels for each class (e.g., human face, emotion category)
+Created bounding box labels for each class (e.g., human emotion category)
 
 Exported YOLO-format dataset
 
